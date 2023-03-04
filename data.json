@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "firstName": "shimaa",
+        "lastName": "shimo",
+        "city": "fayoum",
+        "age": "",
+        "degree": [80, 90, 99, 85, 96, 88],
+        "totalDegree": 538,
+        "aveDegree": 89.9
+    }
+]
